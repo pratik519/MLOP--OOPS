@@ -5,4 +5,13 @@ Class has data and attribute nd func
 Why Python is calle oops ?-- everything in python is an object (data sctrutre, data type )
 Adavntage of OOps 
     you can create your own datatype
-    code reusable     
+    code reusable 
+    debugging 
+    easy to collab
+
+End to ENd project Chatbook    
+
+Encapsulation
+getter and scatter
+static method 
+

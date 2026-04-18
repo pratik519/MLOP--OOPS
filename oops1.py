@@ -23,4 +23,4 @@ sam.travel("Ahmedabad")
 print(type(sam))
 a='x'
 b='y'
-print(a+b)
+print(a+b )
