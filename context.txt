@@ -1,0 +1,8 @@
+Class AnD OBJect
+Class has data and attribute nd func 
+    code walk through 
+    attribute called itself ,method called manually 
+Why Python is calle oops ?-- everything in python is an object (data sctrutre, data type )
+Adavntage of OOps 
+    you can create your own datatype
+    code reusable     
